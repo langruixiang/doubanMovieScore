@@ -1,7 +1,7 @@
 ##Contents
 * **Output** my output result files
 * **Program** my program directory, which is developed by java with Eclipse
-* **Slides** my catalog presentation slides and demo presentation slides
+* **Slides** my demo presentation slides
 * **ReadMe** this file
 
 ##Function Introduction
